@@ -1,0 +1,33 @@
+@prefix vp:     <http://ipthailand.go.th/rdf/voc-pred#> .
+@prefix vo:     <http://ipthailand.go.th/rdf/voc-obj#> .
+@prefix nd:     <https://ipthailand.go.th/rdf/node#> .
+
+nd:1        a           vo:PopiNode ;
+            vp:type     vo:MainNode ;
+            vp:owner    nd:2 ;
+            vp:prefix   'com' ;
+            vp:mainrep   'git@gitlab.com:dipwk0/work0.git' ;
+            vp:workrep   'git@gitlab.com:choompol-drnumnet/workdoc.git' ;
+            vp:baseiri   'http://ipthailand.go.th/rdf/itdep/' ;
+            vp:channel  nd:3 ;
+			vp:attend	nd:5 ;
+			vp:gui		nd:4
+.
+nd:2        a           vo:Person ;
+            vp:email    'dipwk0@popiang.com' ;
+            vp:name     'dip-worker0'
+.
+nd:3        a           vo:RecvEmail ;
+            vp:email    'dipcheckin@gmail.com' ;
+            vp:passwd   'ITdip2567' ;
+            vp:imap     'smtp.gmail.com' ;
+            vp:smtp     'smtp.gmail.com' 
+.
+nd:4        a       vo:GuiSetting ;
+            vp:fontName     'Cordia New' ;
+            vp:fontSize     20
+.
+nd:5		a		vo:Attend ;
+			vp:id		'AT0001'
+.
+

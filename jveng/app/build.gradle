@@ -1,0 +1,64 @@
+
+plugins {
+    id 'application'
+}
+
+repositories {
+    jcenter()
+}
+
+configurations {
+  all*.exclude group: 'log4j', module: 'log4j'
+}
+
+dependencies {
+
+	implementation group: 'org.apache.jena', name: 'jena-core', version: '3.17.0'
+	implementation group: 'org.apache.jena', name: 'jena-arq', version: '3.17.0'
+	implementation group: 'org.apache.jena', name: 'jena-iri', version: '3.17.0'
+	implementation group: 'com.google.guava', name: 'guava', version: 'r05'
+	implementation group: 'org.jsoup', name: 'jsoup', version: '1.13.1'
+	implementation group: 'com.fifesoft', name: 'rsyntaxtextarea', version: '3.1.2'
+	implementation group: 'com.fifesoft', name: 'autocomplete', version: '3.1.1'
+	implementation group: 'com.fifesoft', name: 'rstaui', version: '3.1.1'
+	implementation group: 'com.sun.mail', name: 'javax.mail', version: '1.6.2'
+	implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '4.1.1'
+	implementation group: 'org.apache.pdfbox', name: 'pdfbox', version: '2.0.23'
+
+	implementation group: 'org.dom4j', name: 'dom4j', version: '2.1.0'
+
+	implementation group: 'org.apache.logging.log4j', name: 'log4j-1.2-api', version: '2.14.1'
+
+	implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.14.1'
+	implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.14.1'
+	implementation group: 'org.apache.logging.log4j', name: 'log4j-slf4j-impl', version: '2.14.1'
+
+    testImplementation 'junit:junit:4.13'
+
+}
+
+jar {
+	manifest {
+		attributes 'Main-Class': 'popdig.App'
+		attributes 'Class-Path': configurations.runtime.files.collect { it.absolutePath }.join(' ')
+	}
+	from {
+		configurations.compile.collect { it.isDirectory() ? it : zipTree(it) }
+		configurations.runtimeClasspath.collect { it.isDirectory() ? it : zipTree(it) }
+	}
+}
+
+archivesBaseName = 'popdig'
+
+clean.doFirst {
+//    delete "../../dipwk0/bin"
+}
+
+jar.doLast {
+//    copy { from 'build/libs/popdig.jar' into "../../dipwk0/bin/" }
+}
+
+application {
+    mainClass = 'popdig.App'
+}
+

@@ -1,0 +1,1663 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix rg20210502: <http://ipthailand.go.th/rdf/itdep/rg20210502#> .
+
+rg20210502:041501   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:0 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:15:01' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHOOMPOL' 
+.
+rg20210502:041503   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:786 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:15:03' ;
+                    vp:อีเมล์     'jeabjung4023@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PRONSITS' 
+.
+rg20210502:041539   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:343 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:15:39' ;
+                    vp:อีเมล์     'kaew0635924995@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KRONGKAEW' 
+.
+rg20210502:041712   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:932 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:17:12' ;
+                    vp:อีเมล์     'varisa.s@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:VARISAS' 
+.
+rg20210502:041728   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:985 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:17:28' ;
+                    vp:อีเมล์     'pattaraphorn.ch@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PATTARAPORNC' 
+.
+rg20210502:041735   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:573 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:17:35' ;
+                    vp:อีเมล์     'auikhamm@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:APICHARTK' 
+.
+rg20210502:042146   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1045 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:21:46' ;
+                    vp:อีเมล์     'cinnayada@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PINYADAL' 
+.
+rg20210502:042159   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1042 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:21:59' ;
+                    vp:อีเมล์     'chunyanut17@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHUNYANUTW' 
+.
+rg20210502:042209   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:932 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:22:09' ;
+                    vp:อีเมล์     'varisa.s@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:VARISAS' 
+.
+rg20210502:042253   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1127 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:22:53' ;
+                    vp:อีเมล์     'wichittra.phl@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WICHITTRAP' 
+.
+rg20210502:042256   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1046 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:22:56' ;
+                    vp:อีเมล์     'khaiimuk@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NICHAKANT' 
+.
+rg20210502:042304   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:643 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:23:04' ;
+                    vp:อีเมล์     'thinet.s@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:THINETS' 
+.
+rg20210502:042328   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1030 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:23:28' ;
+                    vp:อีเมล์     'nichaporn.t@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NICHAPORNT' 
+.
+rg20210502:042505   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1035 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:25:05' ;
+                    vp:อีเมล์     'kitiya.jorn@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KITIYAJ' 
+.
+rg20210502:042507   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1083 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:25:07' ;
+                    vp:อีเมล์     'sradcharak@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUWANNARATRA' 
+.
+rg20210502:042608   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:928 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:26:08' ;
+                    vp:อีเมล์     'suphasuta.l@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUPHASUTAL' 
+.
+rg20210502:042837   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:177 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:28:37' ;
+                    vp:อีเมล์     'tosarayut@yahoo.com' ;
+                    vp:หัวเรื่อง     'REGIST:SARAYUTP' 
+.
+rg20210502:042839   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:913 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:28:39' ;
+                    vp:อีเมล์     'takamon.dip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TAKAMONR' 
+.
+rg20210502:043015   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:743 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:30:15' ;
+                    vp:อีเมล์     'jeenkung@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:VORAPHOPJ' 
+.
+rg20210502:043044   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:169 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:30:44' ;
+                    vp:อีเมล์     'putchakan2@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WAROONP' 
+.
+rg20210502:043349   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:881 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:33:49' ;
+                    vp:อีเมล์     'maisom108@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATHAM' 
+.
+rg20210502:043522   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:815 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:35:22' ;
+                    vp:อีเมล์     'chamnan0816292719@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHANISAP' 
+.
+rg20210502:043632   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:124 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:36:32' ;
+                    vp:อีเมล์     'narumon.srikumklip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMONS' 
+.
+rg20210502:043635   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:124 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:36:35' ;
+                    vp:อีเมล์     'narumon.srikumklip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMONS' 
+.
+rg20210502:043638   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1010 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:36:38' ;
+                    vp:อีเมล์     'tukkataka2@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KORNTIPT' 
+.
+rg20210502:043708   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:921 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:37:08' ;
+                    vp:อีเมล์     'ying.jutarat07@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTARATM' 
+.
+rg20210502:043739   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1182 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:37:39' ;
+                    vp:อีเมล์     'klong.pornprom@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNPROMK' 
+.
+rg20210502:043947   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:158 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:39:47' ;
+                    vp:อีเมล์     'kanchid_y@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SARUNTRONY' 
+.
+rg20210502:044223   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:304 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:42:23' ;
+                    vp:อีเมล์     'poy.sotthayasai@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PATTARAPORNS' 
+.
+rg20210502:044432   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1060 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:44:32' ;
+                    vp:อีเมล์     'praphasiri.moc@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PRAPHASIRID' 
+.
+rg20210502:044439   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:172 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:44:39' ;
+                    vp:อีเมล์     'artdip_moc@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:AKKAPHOLB' 
+.
+rg20210502:044559   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:85 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:45:59' ;
+                    vp:อีเมล์     'kantaponlanta@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KANTAPONT' 
+.
+rg20210502:044804   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1187 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:48:04' ;
+                    vp:อีเมล์     'natthapohn1995@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PLOYPROMB' 
+.
+rg20210502:044854   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1132 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:48:54' ;
+                    vp:อีเมล์     'paphitchaya.dip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PAPHITCHAYAK' 
+.
+rg20210502:044945   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:868 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:49:45' ;
+                    vp:อีเมล์     'jinxiejune@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PIYACHATN' 
+.
+rg20210502:045116   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:170 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:51:16' ;
+                    vp:อีเมล์     'toranin@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TORANINB' 
+.
+rg20210502:045129   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:879 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:51:29' ;
+                    vp:อีเมล์     'xzody21@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATTAPONK' 
+.
+rg20210502:045142   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:740 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:51:42' ;
+                    vp:อีเมล์     'chompoonut.dip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHOMPOONUTS' 
+.
+rg20210502:045145   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:24 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:51:45' ;
+                    vp:อีเมล์     'ping0314@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TANITTAS' 
+.
+rg20210502:045231   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:294 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:52:31' ;
+                    vp:อีเมล์     'missranee23@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ARAYAIT' 
+.
+rg20210502:045256   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:878 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:52:56' ;
+                    vp:อีเมล์     'peera_chiang@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PEERAC' 
+.
+rg20210502:045258   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:943 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:52:58' ;
+                    vp:อีเมล์     'sutthida.f@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:SUTTHIDAF' 
+.
+rg20210502:045407   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:931 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:54:07' ;
+                    vp:อีเมล์     'sirinee.th@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRINEET' 
+.
+rg20210502:045409   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:931 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:54:09' ;
+                    vp:อีเมล์     'sirinee.th@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRINEET' 
+.
+rg20210502:045440   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:918 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:54:40' ;
+                    vp:อีเมล์     'santipong.erc@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SANTIPONGT' 
+.
+rg20210502:045632   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:198 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:56:32' ;
+                    vp:อีเมล์     'jeabzasangchong@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUVIMONS' 
+.
+rg20210502:045645   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:121 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:56:45' ;
+                    vp:อีเมล์     'aung8aung@yahoo.com' ;
+                    vp:หัวเรื่อง     'REGIST:TASANAVADEES' 
+.
+rg20210502:045649   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:121 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:56:49' ;
+                    vp:อีเมล์     'aung8aung@yahoo.com' ;
+                    vp:หัวเรื่อง     'REGIST:TASANAVADEES' 
+.
+rg20210502:045656   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1183 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:56:56' ;
+                    vp:อีเมล์     'tpboolypackey@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:HATAYASI' 
+.
+rg20210502:045724   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:761 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:57:24' ;
+                    vp:อีเมล์     'chumwijit.wani@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WANIDAC' 
+.
+rg20210502:045737   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:940 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:57:37' ;
+                    vp:อีเมล์     'engineer_prt@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PEERAPONGT' 
+.
+rg20210502:045845   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:161 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:58:45' ;
+                    vp:อีเมล์     'sontheatchara@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ATCHARAS' 
+.
+rg20210502:045908   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:294 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:59:08' ;
+                    vp:อีเมล์     'tan43213312@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ARAYAIT' 
+.
+rg20210502:045916   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1170 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:59:16' ;
+                    vp:อีเมล์     'chumwijit.wani@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WANIDACH' 
+.
+rg20210502:045924   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:126 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:59:24' ;
+                    vp:อีเมล์     'cho_timas@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHOTIMAS' 
+.
+rg20210502:045927   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1114 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:59:27' ;
+                    vp:อีเมล์     'goonkisskiss@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ANGOONJ' 
+.
+rg20210502:045929   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1114 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '04:59:29' ;
+                    vp:อีเมล์     'goonkisskiss@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ANGOONJ' 
+.
+rg20210502:050027   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1135 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:00:27' ;
+                    vp:อีเมล์     'naviyasan@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NAVIYAJA' 
+.
+rg20210502:050051   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:297 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:00:51' ;
+                    vp:อีเมล์     'yuifatcats1159@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JITTIMAM' 
+.
+rg20210502:050056   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1024 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:00:56' ;
+                    vp:อีเมล์     'jittima.klins@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JITTIMAK' 
+.
+rg20210502:050138   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:12 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:01:38' ;
+                    vp:อีเมล์     'tarodip@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANAKORNR' 
+.
+rg20210502:050159   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:164 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:01:59' ;
+                    vp:อีเมล์     'tatiya.kitt@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUWATCHAIB' 
+.
+rg20210502:050500   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1126 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:05:00' ;
+                    vp:อีเมล์     'p.tullaya@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TULLAYAP' 
+.
+rg20210502:050635   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1021 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:06:35' ;
+                    vp:อีเมล์     'pakkapongpj@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PAKAPONGP' 
+.
+rg20210502:050741   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:519 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:07:41' ;
+                    vp:อีเมล์     'putjir@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:UDOMSITP' 
+.
+rg20210502:050857   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:118 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:08:57' ;
+                    vp:อีเมล์     'jum547@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUMRASY' 
+.
+rg20210502:050931   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:600 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:09:31' ;
+                    vp:อีเมล์     'watcharinm1422@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WATCHARINM' 
+.
+rg20210502:050949   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:296 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:09:49' ;
+                    vp:อีเมล์     'anchy26@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ANCHALEES' 
+.
+rg20210502:051044   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:923 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:10:44' ;
+                    vp:อีเมล์     'pattamapetmanee348@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PATTAMAP' 
+.
+rg20210502:051156   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1057 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:11:56' ;
+                    vp:อีเมล์     'montean090@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:MONTEANP' 
+.
+rg20210502:051224   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:864 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:12:24' ;
+                    vp:อีเมล์     'h.boontawee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:HASLEENAB' 
+.
+rg20210502:051233   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1116 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:12:33' ;
+                    vp:อีเมล์     'soracha.jed@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SORACHAJ' 
+.
+rg20210502:051325   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1186 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:13:25' ;
+                    vp:อีเมล์     'thansuda.armmyy@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANSUDAS' 
+.
+rg20210502:051716   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1134 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:17:16' ;
+                    vp:อีเมล์     'niponthiwakal@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATTHORNN' 
+.
+rg20210502:051754   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:208 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:17:54' ;
+                    vp:อีเมล์     'supapjuk@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUPARP' 
+.
+rg20210502:052202   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:597 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:22:02' ;
+                    vp:อีเมล์     'nobpa9@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SOMMATK' 
+.
+rg20210502:052240   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:112 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:22:40' ;
+                    vp:อีเมล์     'noppadolp@moc.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:NOPPADOLP' 
+.
+rg20210502:052320   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:793 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:23:20' ;
+                    vp:อีเมล์     'zeep1_tle@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TEERAPONGW' 
+.
+rg20210502:052357   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:172 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:23:57' ;
+                    vp:อีเมล์     'ut225bz@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:AKKAPHOLB' 
+.
+rg20210502:052520   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:943 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:25:20' ;
+                    vp:อีเมล์     'f.sutthida@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUTTHIDAF' 
+.
+rg20210502:052539   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1120 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:25:39' ;
+                    vp:อีเมล์     'sutthipoth@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUTTHIPOTHT' 
+.
+rg20210502:052654   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:348 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:26:54' ;
+                    vp:อีเมล์     'jurairatmunsri@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JURAIRATM' 
+.
+rg20210502:052746   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:269 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:27:46' ;
+                    vp:อีเมล์     'nuimoc@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TIDALAKN' 
+.
+rg20210502:052812   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1122 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:28:12' ;
+                    vp:อีเมล์     'nonruecha@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIVADOLN' 
+.
+rg20210502:052854   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1031 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:28:54' ;
+                    vp:อีเมล์     'ariyapuwongn@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATCHAYAARI' 
+.
+rg20210502:053123   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:930 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:31:23' ;
+                    vp:อีเมล์     'jack_seen@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:POLWITM' 
+.
+rg20210502:053141   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:31:41' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:053400   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:34:00' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:053608   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:705 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:36:08' ;
+                    vp:อีเมล์     'thammactra-2715@hotmail.co.th' ;
+                    vp:หัวเรื่อง     'REGIST:PATCHAT' 
+.
+rg20210502:053626   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:36:26' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:053939   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:39:39' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:054110   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:41:10' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:054316   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:43:16' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:054519   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:45:19' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:054534   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1130 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:45:34' ;
+                    vp:อีเมล์     'chakrit.euaychaiporn@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHAKRITE' 
+.
+rg20210502:054536   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1088 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:45:36' ;
+                    vp:อีเมล์     'k.paoribut@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KANSIREEP' 
+.
+rg20210502:054558   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:749 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:45:58' ;
+                    vp:อีเมล์     'ampornssj@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:AMPORNS' 
+.
+rg20210502:054908   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:988 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:49:08' ;
+                    vp:อีเมล์     'jjyuijj@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PIYAPORNP' 
+.
+rg20210502:054917   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:49:17' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:055125   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:192 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:51:25' ;
+                    vp:อีเมล์     'sukunyagi@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUKUNYAPI' 
+.
+rg20210502:055127   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1166 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:51:27' ;
+                    vp:อีเมล์     'wawwowcha@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WAWWOWC' 
+.
+rg20210502:055519   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:433 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:55:19' ;
+                    vp:อีเมล์     'nathamon4297@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATHAMONT' 
+.
+rg20210502:055536   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1119 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:55:36' ;
+                    vp:อีเมล์     'jane_love15238@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JUTHAMARDJE' 
+.
+rg20210502:055547   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:810 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:55:47' ;
+                    vp:อีเมล์     'nopparatw12345@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NOPPARATW' 
+.
+rg20210502:055550   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:597 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:55:50' ;
+                    vp:อีเมล์     'nobpa9@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SOMMATK' 
+.
+rg20210502:055655   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1109 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:56:55' ;
+                    vp:อีเมล์     'chatsiri.design@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRIPANR' 
+.
+rg20210502:055727   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1028 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:57:27' ;
+                    vp:อีเมล์     'rawisa0436@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:RAWISARAW' 
+.
+rg20210502:055758   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:800 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '05:57:58' ;
+                    vp:อีเมล์     'amp.sw5@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRIPORNW' 
+.
+rg20210502:060157   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:468 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:01:57' ;
+                    vp:อีเมล์     'sangkom.24042507@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUNGKOMO' 
+.
+rg20210502:060441   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:441 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:04:41' ;
+                    vp:อีเมล์     'kridsana.dd@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KRIDSANAB' 
+.
+rg20210502:060935   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:884 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:09:35' ;
+                    vp:อีเมล์     'nutcha.sook@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NUTCHAS' 
+.
+rg20210502:061025   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1190 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:10:25' ;
+                    vp:อีเมล์     'praota.dip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PRAOTAP' 
+.
+rg20210502:061033   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:653 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:10:33' ;
+                    vp:อีเมล์     't_seena25@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WANTANEES' 
+.
+rg20210502:061148   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1105 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:11:48' ;
+                    vp:อีเมล์     'suchada30012532@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUCHADAP' 
+.
+rg20210502:061207   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:339 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:12:07' ;
+                    vp:อีเมล์     'kratai.ree2@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NUTCHAREES' 
+.
+rg20210502:061552   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:567 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:15:52' ;
+                    vp:อีเมล์     'worlalux@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WORLALUXK' 
+.
+rg20210502:061656   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:747 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:16:56' ;
+                    vp:อีเมล์     'sarasin415@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SARASINT' 
+.
+rg20210502:061813   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:732 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:18:13' ;
+                    vp:อีเมล์     'surapata@yahoo.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURAPATA' 
+.
+rg20210502:061831   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:890 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:18:31' ;
+                    vp:อีเมล์     'kraisai_wow@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUTHEERAK' 
+.
+rg20210502:061833   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:229 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:18:33' ;
+                    vp:อีเมล์     'thananwat.pk@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANUNWATT' 
+.
+rg20210502:061851   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:776 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:18:51' ;
+                    vp:อีเมล์     'c.wongkhumngoen@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHAITAWATW' 
+.
+rg20210502:062634   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:215 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:26:34' ;
+                    vp:อีเมล์     'kookgik_23@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUMONTAS' 
+.
+rg20210502:062649   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:852 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:26:49' ;
+                    vp:อีเมล์     'yooyao.t@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANTIPY' 
+.
+rg20210502:062931   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1199 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:29:31' ;
+                    vp:อีเมล์     'boonyaritpettae@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:BOONYARITP' 
+.
+rg20210502:062954   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:976 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:29:54' ;
+                    vp:อีเมล์     'mmanneerath@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:MANEERATJ' 
+.
+rg20210502:063003   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1159 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:30:03' ;
+                    vp:อีเมล์     'srip041n@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NAPATS' 
+.
+rg20210502:063215   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1045 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:32:15' ;
+                    vp:อีเมล์     'pinyada.l@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:PINYADAL' 
+.
+rg20210502:063326   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1003 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:33:26' ;
+                    vp:อีเมล์     'jarassri.pah@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JARASSRIK' 
+.
+rg20210502:063458   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1103 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:34:58' ;
+                    vp:อีเมล์     '570106040077@dpu.ac.th' ;
+                    vp:หัวเรื่อง     'REGIST:PHAILINJ' 
+.
+rg20210502:063513   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1179 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:35:13' ;
+                    vp:อีเมล์     'tell999@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PUNISSAB' 
+.
+rg20210502:063538   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:732 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:35:38' ;
+                    vp:อีเมล์     'asurapat888@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURAPATA' 
+.
+rg20210502:063818   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1179 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:38:18' ;
+                    vp:อีเมล์     'tell999@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PUNISSAB' 
+.
+rg20210502:063850   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:895 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:38:50' ;
+                    vp:อีเมล์     'aondadmom@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUTICHAIK' 
+.
+rg20210502:064102   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:41:02' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg20210502:064301   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1041 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:43:01' ;
+                    vp:อีเมล์     'tipwimol.t@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:TIPWIMOLT' 
+.
+rg20210502:064329   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1008 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:43:29' ;
+                    vp:อีเมล์     'onauma37@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ONUMAC' 
+.
+rg20210502:064344   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1198 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:43:44' ;
+                    vp:อีเมล์     'sombunyanon@outlook.com' ;
+                    vp:หัวเรื่อง     'REGIST:BENYAS' 
+.
+rg20210502:064545   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1008 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:45:45' ;
+                    vp:อีเมล์     'onauma37@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ONUMAC' 
+.
+rg20210502:064754   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:446 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:47:54' ;
+                    vp:อีเมล์     'pay_patent@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUPANNEEKE' 
+.
+rg20210502:064835   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:558 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:48:35' ;
+                    vp:อีเมล์     'yothaka.in@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:YOTHAKAI' 
+.
+rg20210502:064942   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1080 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:49:42' ;
+                    vp:อีเมล์     'apatsara.be52@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:APATSARAI' 
+.
+rg20210502:065129   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1070 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:51:29' ;
+                    vp:อีเมล์     'korrapatnajak@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KORRAPATN' 
+.
+rg20210502:065312   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:629 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:53:12' ;
+                    vp:อีเมล์     'onxon@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORAONS' 
+.
+rg20210502:065427   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:154 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:54:27' ;
+                    vp:อีเมล์     'niwat_567@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NIWATJ' 
+.
+rg20210502:065429   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1025 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:54:29' ;
+                    vp:อีเมล์     'chumpol.siriwat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHUMPOLS' 
+.
+rg20210502:065522   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:696 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:55:22' ;
+                    vp:อีเมล์     'thitiya.kat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THITIYAY' 
+.
+rg20210502:065555   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1197 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:55:55' ;
+                    vp:อีเมล์     'duanghathaisomsa@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:DUANGHATHAIS' 
+.
+rg20210502:065615   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:861 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:56:15' ;
+                    vp:อีเมล์     'kasamawan.t@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KASAMAWANT' 
+.
+rg20210502:065640   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:16 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:56:40' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PHANUWATK' 
+.
+rg20210502:065731   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1044 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:57:31' ;
+                    vp:อีเมล์     'sakdinan602@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SAKDINANO' 
+.
+rg20210502:065820   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:167 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:58:20' ;
+                    vp:อีเมล์     'antaew13@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMOLD' 
+.
+rg20210502:065823   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:754 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:58:23' ;
+                    vp:อีเมล์     'supatrakl9@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUPATRAK' 
+.
+rg20210502:065858   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1077 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '06:58:58' ;
+                    vp:อีเมล์     'ifangba9795@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PAIARPORNR' 
+.
+rg20210502:071028   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:124 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:10:28' ;
+                    vp:อีเมล์     'narumon.srikumklip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMONS' 
+.
+rg20210502:071304   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:819 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:13:04' ;
+                    vp:อีเมล์     'piranya2919@outlook.co.th' ;
+                    vp:หัวเรื่อง     'REGIST:SARANYAP' 
+.
+rg20210502:071831   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:847 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:18:31' ;
+                    vp:อีเมล์     'n.sangkharat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NITIPONGS' 
+.
+rg20210502:071833   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:729 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:18:33' ;
+                    vp:อีเมล์     'natthaphat.tai@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATTHAPHATS' 
+.
+rg20210502:072030   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1108 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:20:30' ;
+                    vp:อีเมล์     'onauma37@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ONUMACH' 
+.
+rg20210502:072033   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1112 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:20:33' ;
+                    vp:อีเมล์     'sophita37wan@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SOPHITAP' 
+.
+rg20210502:072702   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1069 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:27:02' ;
+                    vp:อีเมล์     'sudkhet82@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUDKHETB' 
+.
+rg20210502:072715   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:850 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:27:15' ;
+                    vp:อีเมล์     'muakngam@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ANCHANM' 
+.
+rg20210502:072757   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1087 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:27:57' ;
+                    vp:อีเมล์     'pornsit.ipgo@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNSITL' 
+.
+rg20210502:072912   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1040 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:29:12' ;
+                    vp:อีเมล์     'tatiya.kitt@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TATTIYAK' 
+.
+rg20210502:073213   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:592 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:32:13' ;
+                    vp:อีเมล์     'bonggotmas@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:BONGGOTMASH' 
+.
+rg20210502:073908   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:847 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:39:08' ;
+                    vp:อีเมล์     'n.sangkharat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NITIPONGS' 
+.
+rg20210502:074611   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:888 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:46:11' ;
+                    vp:อีเมล์     'aukma5807@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:KANYAW' 
+.
+rg20210502:074626   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1195 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:46:26' ;
+                    vp:อีเมล์     'thanawat.sangsorn@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANAWATS' 
+.
+rg20210502:074650   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:847 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:46:50' ;
+                    vp:อีเมล์     'n.sangkharat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NITIPONGS' 
+.
+rg20210502:074736   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:47:36' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg20210502:074800   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:166 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:48:00' ;
+                    vp:อีเมล์     'sakol.v@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:SAKOLV' 
+.
+rg20210502:074945   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:305 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:49:45' ;
+                    vp:อีเมล์     'otto9035270@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PRATEEPC' 
+.
+rg20210502:075525   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:659 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:55:25' ;
+                    vp:อีเมล์     'wallope29@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WANLOPS' 
+.
+rg20210502:075553   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:16 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:55:53' ;
+                    vp:อีเมล์     'phanuwatk555@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PHANUWATK' 
+.
+rg20210502:075934   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:180 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '07:59:34' ;
+                    vp:อีเมล์     'jakkaphan968@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JAKKAPHANP' 
+.
+rg20210502:080222   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:695 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:02:22' ;
+                    vp:อีเมล์     'tonhom0328@icloud.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNPIMOLB' 
+.
+rg20210502:080356   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:155 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:03:56' ;
+                    vp:อีเมล์     'umakorn@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:UMAKORNU' 
+.
+rg20210502:080545   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:05:45' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:080614   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:751 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:06:14' ;
+                    vp:อีเมล์     'nakharat2012@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TAVEESAKS' 
+.
+rg20210502:080739   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:716 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:07:39' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SAISAMORNK' 
+.
+rg20210502:080840   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:721 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:08:40' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:RATCHAWANJ' 
+.
+rg20210502:081041   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:716 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:10:41' ;
+                    vp:อีเมล์     's_saisamorn09@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SAISAMORNK' 
+.
+rg20210502:081310   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:610 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:13:10' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:RATCHANUR' 
+.
+rg20210502:081609   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:771 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:16:09' ;
+                    vp:อีเมล์     'cha_nom_kai_muk@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NONGYAOT' 
+.
+rg20210502:081612   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:866 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:16:12' ;
+                    vp:อีเมล์     'sairudee17@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SAIRUDEED' 
+.
+rg20210502:081715   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:771 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:17:15' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:NONGYAOT' 
+.
+rg20210502:081849   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:976 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:18:49' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:MANEERATJ' 
+.
+rg20210502:082037   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1100 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:20:37' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:BULAPORNP' 
+.
+rg20210502:082132   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:21:32' ;
+                    vp:อีเมล์     'takkakaa@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:082230   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:483 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:22:30' ;
+                    vp:อีเมล์     'choompol@edipa.org' ;
+                    vp:หัวเรื่อง     'REGIST:CHERDSAKC' 
+.
+rg20210502:082248   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:610 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:22:48' ;
+                    vp:อีเมล์     'fateemahkookkai@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:RATCHANUR' 
+.
+rg20210502:082335   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:943 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:23:35' ;
+                    vp:อีเมล์     'sutthida.f@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:SUTTHIDAF' 
+.
+rg20210502:082354   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:75 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:23:54' ;
+                    vp:อีเมล์     'chanisa_69@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURATP' 
+.
+rg20210502:082906   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1100 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:29:06' ;
+                    vp:อีเมล์     'bulaporn.phiunual@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:BULAPORNP' 
+.
+rg20210502:083005   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:823 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:30:05' ;
+                    vp:อีเมล์     'tadsanoo.tl@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TADSANOOL' 
+.
+rg20210502:083034   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:75 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:30:34' ;
+                    vp:อีเมล์     'chanisa_69@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURATP' 
+.
+rg20210502:083211   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:483 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:32:11' ;
+                    vp:อีเมล์     'cheidsak.ch1112@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHERDSAKC' 
+.
+rg20210502:083307   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:75 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:33:07' ;
+                    vp:อีเมล์     'mm_jija11@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURATP' 
+.
+rg20210502:083638   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:367 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:36:38' ;
+                    vp:อีเมล์     'likhit2020@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:LIKHIT' 
+.
+rg20210502:084052   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:40:52' ;
+                    vp:อีเมล์     'takkakaa@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:084108   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:911 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:41:08' ;
+                    vp:อีเมล์     'rattikarn.n@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:RATTIKARNN' 
+.
+rg20210502:084301   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:308 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:43:01' ;
+                    vp:อีเมล์     'siraneek14@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRANEEK' 
+.
+rg20210502:084403   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:238 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:44:03' ;
+                    vp:อีเมล์     'worapun995@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WORAPUNS' 
+.
+rg20210502:084544   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:691 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:45:44' ;
+                    vp:อีเมล์     'sumetdowsuk@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUMETD' 
+.
+rg20210502:084652   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:75 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:46:52' ;
+                    vp:อีเมล์     'suratmall76@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SURATP' 
+.
+rg20210502:085211   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:876 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:52:11' ;
+                    vp:อีเมล์     'nontapot.i@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:NONTAPOTI' 
+.
+rg20210502:085415   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:730 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:54:15' ;
+                    vp:อีเมล์     'pea.monchanok@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:MONCHANOKT' 
+.
+rg20210502:085503   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:915 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:55:03' ;
+                    vp:อีเมล์     'natthapolenglish@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NATTAPOLS' 
+.
+rg20210502:085715   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1176 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '08:57:15' ;
+                    vp:อีเมล์     'aepavenat.int@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PAVENATI' 
+.
+rg20210502:090022   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:340 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:00:22' ;
+                    vp:อีเมล์     'girdmanee1971@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUWIPADAK' 
+.
+rg20210502:090025   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:00:25' ;
+                    vp:อีเมล์     'takkakaa@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:090520   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1139 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:05:20' ;
+                    vp:อีเมล์     'pumpat.ps@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PUMPATP' 
+.
+rg20210502:091358   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1011 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:13:58' ;
+                    vp:อีเมล์     'giff11giff22@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SARAWANIK' 
+.
+rg20210502:091549   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1000 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:15:49' ;
+                    vp:อีเมล์     'pimpisa.jh@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PIMPISAJ' 
+.
+rg20210502:091721   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:17:21' ;
+                    vp:อีเมล์     'takkakaa@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:091907   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:264 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:19:07' ;
+                    vp:อีเมล์     'chalemphonphetploy24@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHALEMPHONP' 
+.
+rg20210502:092115   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:72 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:21:15' ;
+                    vp:อีเมล์     'phornprom.a@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PHORNPROMA' 
+.
+rg20210502:092327   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:679 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:23:27' ;
+                    vp:อีเมล์     'takkakaa@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:ORANUTC' 
+.
+rg20210502:093302   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:166 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:33:02' ;
+                    vp:อีเมล์     'sakol.v@ipthailand.go.th' ;
+                    vp:หัวเรื่อง     'REGIST:SAKOLV' 
+.
+rg20210502:093609   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:721 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:36:09' ;
+                    vp:อีเมล์     'rjindawat@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:RATCHAWANJ' 
+.
+rg20210502:094405   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1078 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:44:05' ;
+                    vp:อีเมล์     'pure_401@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SUATTAPONGK' 
+.
+rg20210502:094413   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:232 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:44:13' ;
+                    vp:อีเมล์     'nuchnathwiynakh@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NUCHANATW' 
+.
+rg20210502:095707   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:436 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '09:57:07' ;
+                    vp:อีเมล์     'pornnapa1922@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JIRAPORNS' 
+.
+rg20210502:100016   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:572 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:00:16' ;
+                    vp:อีเมล์     'thekop80_1@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:CHARE.R' 
+.
+rg20210502:100332   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:436 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:03:32' ;
+                    vp:อีเมล์     'pornnapa1922@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:JIRAPORNS' 
+.
+rg20210502:101001   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1034 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:10:01' ;
+                    vp:อีเมล์     'sompong.mnr@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SOMPONGM' 
+.
+rg20210502:102716   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:870 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:27:16' ;
+                    vp:อีเมล์     'hempsu42@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THALOENGRACHN' 
+.
+rg20210502:102754   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1142 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:27:54' ;
+                    vp:อีเมล์     'novez_1@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PITTAWATJ' 
+.
+rg20210502:102931   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:178 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:29:31' ;
+                    vp:อีเมล์     'thanomsak.rps@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:THANOMSAKR' 
+.
+rg20210502:103714   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:601 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:37:14' ;
+                    vp:อีเมล์     'wiparineep@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:WIPARINEEP' 
+.
+rg20210502:103802   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1022 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '10:38:02' ;
+                    vp:อีเมล์     'phanuwatphunkasem@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PHANUWATP' 
+.
+rg20210502:111420   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:644 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '11:14:20' ;
+                    vp:อีเมล์     'sootprasit.1980@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRIYAS' 
+.
+rg20210502:111709   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:644 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '11:17:09' ;
+                    vp:อีเมล์     'sootprasit.1980@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SIRIYAS' 
+.
+rg20210502:113112   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:282 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '11:31:12' ;
+                    vp:อีเมล์     'sasicha.dip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:URAIWANT' 
+.
+rg20210502:113115   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1206 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '11:31:15' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NAVARATT' 
+.
+rg20210502:113119   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1206 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '11:31:19' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NAVARATT' 
+.
+rg20210502:233932   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1206 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '23:39:32' ;
+                    vp:อีเมล์     'dr.choompol.boonmee@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NAVARATT' 
+.
+rg20210502:235726   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:894 ;
+                    vp:วันที่     '2021-05-02' ;
+                    vp:เวลา     '23:57:26' ;
+                    vp:อีเมล์     'd.sudthong@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:DUANGSAMORNS' 
+.

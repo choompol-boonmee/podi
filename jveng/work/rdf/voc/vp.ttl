@@ -1,0 +1,34 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vp:คือ			a		rdf:Property ;
+			rdfs:label		 "คือ" 
+.
+vp:ภายใต้		a		rdf:Property ;
+			rdfs:label		 "ภายใต้" 
+.
+vp:เนื้อหา		a		rdf:Property ;
+			rdfs:label		 "เนื้อหา" 
+.
+vp:ชื่อ			a		rdf:Property ;
+			rdfs:label		 "ชื่อ" 
+.
+vp:สัญญา		a		rdf:Property ;
+			rdfs:label		 "สัญญา" 
+.
+vp:เลขที่			a		rdf:Property ;
+			rdfs:label		 "เลขที่" 
+.
+vp:รวม			a		rdf:Property ;
+			rdfs:label		 "รวม" 
+.
+vp:ลำดับ			a		rdf:Property ;
+			rdfs:label		 "ลำดับ" 
+.
+vp:ไฟล์			a		rdf:Property ;
+			rdfs:label		 "ไฟล์" 
+.
+vp:งบประมาณ		a		rdf:Property ;
+			rdfs:label		 "งบประมาณ" 
+.

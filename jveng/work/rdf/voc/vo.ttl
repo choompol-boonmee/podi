@@ -1,0 +1,23 @@
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+vp:กฎหมายพรบ		a		rdfs:Class ;
+			rdfs:label		 "กฎหมายพรบ"
+.
+vp:ประกาศ		a		rdfs:Class  ;
+			rdfs:label 	"ประกาศ"
+.
+vp:มาตรา		a		rdfs:Class  ;
+			rdfs:label 	"มาตรา"
+.
+vp:เอกสาร		a		rdfs:Class  ;
+			rdfs:label 	"เอกสาร"
+.
+vp:รายงาน1		a		rdfs:Class  ;
+			rdfs:label 	"รายงาน1"
+.
+vp:สัญญา		a		rdfs:Class  ;
+			rdfs:label 	"สัญญา"
+.

@@ -1,0 +1,40 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix com01: <http://ipthailand.go.th/rdf/itdep/com01#> .
+@prefix rg20210507: <http://ipthailand.go.th/rdf/itdep/rg20210507#> .
+
+rg20210507:072920   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-07' ;
+                    vp:เวลา     '07:29:20' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg20210507:074519   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:620 ;
+                    vp:วันที่     '2021-05-07' ;
+                    vp:เวลา     '07:45:19' ;
+                    vp:อีเมล์     'somchokdip35@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:SOMCHOK' 
+.
+rg20210507:091536   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:23 ;
+                    vp:วันที่     '2021-05-07' ;
+                    vp:เวลา     '09:15:36' ;
+                    vp:อีเมล์     'manussanun.kung@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:MANUSSANUNN' 
+.
+rg20210507:173349   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-07' ;
+                    vp:เวลา     '17:33:49' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg20210507:193741   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:124 ;
+                    vp:วันที่     '2021-05-07' ;
+                    vp:เวลา     '19:37:41' ;
+                    vp:อีเมล์     'narumon.srikumklip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMONS' 
+.

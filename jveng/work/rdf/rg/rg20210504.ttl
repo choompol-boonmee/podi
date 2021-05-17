@@ -1,0 +1,19 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix com01: <http://ipthailand.go.th/rdf/itdep/com01#> .
+@prefix rg20210504: <http://ipthailand.go.th/rdf/itdep/rg20210504#> .
+
+rg20210504:155708   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:243 ;
+                    vp:วันที่     '2021-05-04' ;
+                    vp:เวลา     '15:57:08' ;
+                    vp:อีเมล์     'prayunr11@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PRAYOONR' 
+.
+rg20210504:223734   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:24 ;
+                    vp:วันที่     '2021-05-04' ;
+                    vp:เวลา     '22:37:34' ;
+                    vp:อีเมล์     'ping0314@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:TANITTAS' 
+.

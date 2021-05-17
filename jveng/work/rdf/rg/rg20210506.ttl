@@ -1,0 +1,26 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix com01: <http://ipthailand.go.th/rdf/itdep/com01#> .
+@prefix rg20210506: <http://ipthailand.go.th/rdf/itdep/rg20210506#> .
+
+rg20210506:074741   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-06' ;
+                    vp:เวลา     '07:47:41' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg20210506:084706   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:353 ;
+                    vp:วันที่     '2021-05-06' ;
+                    vp:เวลา     '08:47:06' ;
+                    vp:อีเมล์     'pim.pirattana08@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PAIROJP' 
+.
+rg20210506:165938   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2021-05-06' ;
+                    vp:เวลา     '16:59:38' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.

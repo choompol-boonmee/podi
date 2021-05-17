@@ -1,0 +1,40 @@
+@prefix vp: <http://ipthailand.go.th/rdf/itdep/voc-pred#> .
+@prefix vo: <http://ipthailand.go.th/rdf/itdep/voc-obj#> .
+@prefix com01: <http://ipthailand.go.th/rdf/itdep/com01#> .
+@prefix rg25640513: <http://ipthailand.go.th/rdf/itdep/rg25640513#> .
+
+rg25640513:075123   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:977 ;
+                    vp:วันที่     '2564-05-13' ;
+                    vp:เวลา     '07:51:23' ;
+                    vp:อีเมล์     'nisachon_key@hotmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NISACHONT' 
+.
+rg25640513:075126   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2564-05-13' ;
+                    vp:เวลา     '07:51:26' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg25640513:075129   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:1201 ;
+                    vp:วันที่     '2564-05-13' ;
+                    vp:เวลา     '07:51:29' ;
+                    vp:อีเมล์     'piyawadee1228@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PIYAWADEES' 
+.
+rg25640513:081109   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:342 ;
+                    vp:วันที่     '2564-05-13' ;
+                    vp:เวลา     '08:11:09' ;
+                    vp:อีเมล์     'land3616@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:PORNTHIPP' 
+.
+rg25640513:082220   vp:คือ    vo:ลงทะเบียน  ;
+                    vp:ใคร     com01:124 ;
+                    vp:วันที่     '2564-05-13' ;
+                    vp:เวลา     '08:22:20' ;
+                    vp:อีเมล์     'narumon.srikumklip@gmail.com' ;
+                    vp:หัวเรื่อง     'REGIST:NARUMONS' 
+.
